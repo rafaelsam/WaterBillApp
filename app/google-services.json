@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716829487602",
+    "project_id": "my-waterbill",
+    "storage_bucket": "my-waterbill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716829487602:android:00ae59ef6bc226cf58bb6b",
+        "android_client_info": {
+          "package_name": "com.example.mywaterbill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716829487602-a89qhc2lqj3v151ls4sl060gbmnk93lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBBOXGHdDu2iMBO4Q9j_Zsrnt1ymOZmUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716829487602-a89qhc2lqj3v151ls4sl060gbmnk93lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
